@@ -7,12 +7,12 @@ Parameters:
 
   GitHubOwner:
     Type: String
-    Default: viveklingireddy #replace with your github username
+    Default: viveklingireddy
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
     Type: String
-    Default: cloud-basics4 #replace with your github repository name
+    Default: cloud-basics4
     AllowedPattern: "[A-Za-z0-9-]+"
 
   BranchName:
